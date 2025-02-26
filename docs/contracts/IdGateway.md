@@ -1,4 +1,4 @@
-#IdGateway
+# IdGateway
 
 The ID Gateway handles additional logic required for first time registration of an fid. To prevent spam, the gateway also requires renting 1 unit of storage.
 

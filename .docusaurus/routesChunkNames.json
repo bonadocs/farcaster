@@ -1,0 +1,94 @@
+{
+  "/__docusaurus/debug-9d0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-3-f-1-e94"
+    }
+  },
+  "/__docusaurus/debug/config-908": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-3-f-1-e94"
+    }
+  },
+  "/__docusaurus/debug/content-fff": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-3-f-1-e94"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-0ca": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-3-f-1-e94"
+    }
+  },
+  "/__docusaurus/debug/metadata-a7e": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-3-f-1-e94"
+    }
+  },
+  "/__docusaurus/debug/registry-fec": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-3-f-1-e94"
+    }
+  },
+  "/__docusaurus/debug/routes-8f9": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-3-f-1-e94"
+    }
+  },
+  "/-f46": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---720-2ec"
+    }
+  },
+  "/-48c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---935-fcf"
+  },
+  "/-8f4": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/contracts/-4a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-315-c68"
+  },
+  "/contracts/Bundler-e0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-bundler-2-a-2-fa5"
+  },
+  "/contracts/ID_Registry-8ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-id-registry-0-b-5-39e"
+  },
+  "/contracts/IdGateway-39f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-id-gateway-3-a-0-ea7"
+  },
+  "/contracts/Key_Gateway-02e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-key-gateway-4-de-fb1"
+  },
+  "/contracts/Key_Registry-3bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-key-registry-42-a-fb5"
+  },
+  "/contracts/Storage_Registry-b48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contracts-storage-registry-8-bf-791"
+  },
+  "/deploymentAddresses-872": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---deployment-addressesd-54-189"
+  },
+  "/-1d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---c-37-d02"
+  }
+}

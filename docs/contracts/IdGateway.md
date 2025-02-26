@@ -1,0 +1,141 @@
+#IdGateway
+
+The ID Gateway handles additional logic required for first time registration of an fid. To prevent spam, the gateway also requires renting 1 unit of storage.
+
+
+
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x6a5306a3"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0xffa1ad74"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x79ba5097"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x78e890ba"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x84b0196e"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x0aa13b8c"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x8da5cb5b"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x8456cb59"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x5c975abb"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0xe30c3978"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0xa035b1fe"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x715018a6"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x4ec77b45"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x3f4ba83a"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x69615a4c"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0xfa0b7dc8"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0xa526d83b"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x0633b14a"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x71404156"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0xf2fde38b"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x7ecebe00"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x6d705ebb"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x4420e486"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0xa0c7529c"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x3efa0b02"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x4980f288"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xa133d"
+  functionKey="0xa133d.function.0x26a49e37"
+/>

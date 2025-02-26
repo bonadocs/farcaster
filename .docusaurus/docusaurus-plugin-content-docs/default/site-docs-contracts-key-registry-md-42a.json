@@ -1,0 +1,24 @@
+{
+  "id": "contracts/Key_Registry",
+  "title": "Key Registry",
+  "description": "The Key Registry associates a Farcaster id to zero or more ed2559 public keys. Only messages signed by a key registered here are considered valid by the hubs. Registered keys can be revoked by the owner of the fid, but revoked keys can not be added to that fid again. The same key may be registered to multiple fids. Adding a key must be done through the Key Gateway.",
+  "source": "@site/docs/contracts/Key_Registry.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/Key_Registry",
+  "permalink": "/contracts/Key_Registry",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/Key_Registry.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "KeyGateway",
+    "permalink": "/contracts/Key_Gateway"
+  },
+  "next": {
+    "title": "Storage Registry",
+    "permalink": "/contracts/Storage_Registry"
+  }
+}

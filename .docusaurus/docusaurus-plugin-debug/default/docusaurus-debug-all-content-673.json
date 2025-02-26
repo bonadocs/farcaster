@@ -1,0 +1,310 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/undefined/undefined/tree/main/docs",
+          "editUrlLocalized": "https://github.com/undefined/undefined/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/david/Documents/projects/op-protocols/farcaster/sidebars.js",
+          "contentPath": "/Users/david/Documents/projects/op-protocols/farcaster/docs",
+          "contentPathLocalized": "/Users/david/Documents/projects/op-protocols/farcaster/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "contracts/Bundler",
+              "title": "Bundler",
+              "description": "The Bundler is a helper contract that makes it easier to register an fid, add a key and rent storage in one transaction.",
+              "source": "@site/docs/contracts/Bundler.md",
+              "sourceDirName": "contracts",
+              "slug": "/contracts/Bundler",
+              "permalink": "/contracts/Bundler",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/Bundler.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "contractSidebar",
+              "previous": {
+                "title": "Contracts",
+                "permalink": "/contracts/"
+              },
+              "next": {
+                "title": "ID Registry",
+                "permalink": "/contracts/ID_Registry"
+              }
+            },
+            {
+              "id": "contracts/ID_Registry",
+              "title": "ID Registry",
+              "description": "The Id Registry contract is used to keep track of Farcaster IDs. It maps an fid to an owning Ethereum address. The owner can also designate a \"recovery address\" which can be used to recover the fid if the owner loses access to the registering address. Registering an fid for the first time must be done through the ID Gateway.",
+              "source": "@site/docs/contracts/ID_Registry.md",
+              "sourceDirName": "contracts",
+              "slug": "/contracts/ID_Registry",
+              "permalink": "/contracts/ID_Registry",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/ID_Registry.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "contractSidebar",
+              "previous": {
+                "title": "Bundler",
+                "permalink": "/contracts/Bundler"
+              },
+              "next": {
+                "title": "IdGateway",
+                "permalink": "/contracts/IdGateway"
+              }
+            },
+            {
+              "id": "contracts/IdGateway",
+              "title": "IdGateway",
+              "description": "The ID Gateway handles additional logic required for first time registration of an fid. To prevent spam, the gateway also requires renting 1 unit of storage.",
+              "source": "@site/docs/contracts/IdGateway.md",
+              "sourceDirName": "contracts",
+              "slug": "/contracts/IdGateway",
+              "permalink": "/contracts/IdGateway",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/IdGateway.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "contractSidebar",
+              "previous": {
+                "title": "ID Registry",
+                "permalink": "/contracts/ID_Registry"
+              },
+              "next": {
+                "title": "KeyGateway",
+                "permalink": "/contracts/Key_Gateway"
+              }
+            },
+            {
+              "id": "contracts/index",
+              "title": "Contracts",
+              "description": "Farcaster contracts are deployed on Optimism, an Ethereum layer 2 network. There are three core contracts: Id Registry, Key Registry, and Storage Registry. Write access to the ID and Key registry is gated through the Gateway contracts. There is also a Bundler helper contract to make it easy to register an fid, add a key and rent storage in one transaction.",
+              "source": "@site/docs/contracts/index.md",
+              "sourceDirName": "contracts",
+              "slug": "/contracts/",
+              "permalink": "/contracts/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "contractSidebar",
+              "previous": {
+                "title": "Farcaster",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Bundler",
+                "permalink": "/contracts/Bundler"
+              }
+            },
+            {
+              "id": "contracts/Key_Gateway",
+              "title": "KeyGateway",
+              "description": "Similarly, the Key Gateway exists for the Key Registry. Adding a key to a fid must be done via the gateway.",
+              "source": "@site/docs/contracts/Key_Gateway.md",
+              "sourceDirName": "contracts",
+              "slug": "/contracts/Key_Gateway",
+              "permalink": "/contracts/Key_Gateway",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/Key_Gateway.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "contractSidebar",
+              "previous": {
+                "title": "IdGateway",
+                "permalink": "/contracts/IdGateway"
+              },
+              "next": {
+                "title": "Key Registry",
+                "permalink": "/contracts/Key_Registry"
+              }
+            },
+            {
+              "id": "contracts/Key_Registry",
+              "title": "Key Registry",
+              "description": "The Key Registry associates a Farcaster id to zero or more ed2559 public keys. Only messages signed by a key registered here are considered valid by the hubs. Registered keys can be revoked by the owner of the fid, but revoked keys can not be added to that fid again. The same key may be registered to multiple fids. Adding a key must be done through the Key Gateway.",
+              "source": "@site/docs/contracts/Key_Registry.md",
+              "sourceDirName": "contracts",
+              "slug": "/contracts/Key_Registry",
+              "permalink": "/contracts/Key_Registry",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/Key_Registry.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "contractSidebar",
+              "previous": {
+                "title": "KeyGateway",
+                "permalink": "/contracts/Key_Gateway"
+              },
+              "next": {
+                "title": "Storage Registry",
+                "permalink": "/contracts/Storage_Registry"
+              }
+            },
+            {
+              "id": "contracts/Storage_Registry",
+              "title": "Storage Registry",
+              "description": "The Storage Registry allows an fid to rent one or more \"units\" of storage on the farcaster network. The current cost of storage is 7$ USD per unit, for one year. This fee must be paid in ETH. The storage registry uses an ETH price oracle to determine the current cost in ETH and exposes functions to query this price. Overpayments are refunded to the caller.",
+              "source": "@site/docs/contracts/Storage_Registry.md",
+              "sourceDirName": "contracts",
+              "slug": "/contracts/Storage_Registry",
+              "permalink": "/contracts/Storage_Registry",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/Storage_Registry.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "contractSidebar",
+              "previous": {
+                "title": "Key Registry",
+                "permalink": "/contracts/Key_Registry"
+              },
+              "next": {
+                "title": "Deployment Addresses",
+                "permalink": "/deploymentAddresses"
+              }
+            },
+            {
+              "id": "deploymentAddresses",
+              "title": "Deployment Addresses",
+              "description": "Contract Deployment Addresses",
+              "source": "@site/docs/deploymentAddresses.md",
+              "sourceDirName": ".",
+              "slug": "/deploymentAddresses",
+              "permalink": "/deploymentAddresses",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/deploymentAddresses.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "contractSidebar",
+              "previous": {
+                "title": "Storage Registry",
+                "permalink": "/contracts/Storage_Registry"
+              }
+            },
+            {
+              "id": "index",
+              "title": "Farcaster",
+              "description": "Permissionlessly build and distribute social apps",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/undefined/undefined/tree/main/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "contractSidebar",
+              "next": {
+                "title": "Contracts",
+                "permalink": "/contracts/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "contractSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Contracts",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "contracts/Bundler"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "contracts/ID_Registry"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "contracts/IdGateway"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "contracts/Key_Gateway"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "contracts/Key_Registry"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "contracts/Storage_Registry"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "contracts/index"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "deploymentAddresses"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

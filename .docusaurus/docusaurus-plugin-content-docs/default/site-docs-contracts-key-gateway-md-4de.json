@@ -1,0 +1,24 @@
+{
+  "id": "contracts/Key_Gateway",
+  "title": "KeyGateway",
+  "description": "Similarly, the Key Gateway exists for the Key Registry. Adding a key to a fid must be done via the gateway.",
+  "source": "@site/docs/contracts/Key_Gateway.md",
+  "sourceDirName": "contracts",
+  "slug": "/contracts/Key_Gateway",
+  "permalink": "/contracts/Key_Gateway",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/undefined/undefined/tree/main/docs/contracts/Key_Gateway.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "contractSidebar",
+  "previous": {
+    "title": "IdGateway",
+    "permalink": "/contracts/IdGateway"
+  },
+  "next": {
+    "title": "Key Registry",
+    "permalink": "/contracts/Key_Registry"
+  }
+}

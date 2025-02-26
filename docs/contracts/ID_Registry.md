@@ -1,0 +1,249 @@
+﻿﻿# ID Registry
+
+The Id Registry contract is used to keep track of Farcaster IDs. It maps an fid to an owning Ethereum address. The owner can also designate a "recovery address" which can be used to recover the fid if the owner loses access to the registering address. Registering an fid for the first time must be done through the ID Gateway.
+
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xd5bac7f3"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xea2bbb83"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x00bf26f4"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xffa1ad74"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x79ba5097"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x78e890ba"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x84b0196e"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xddd76649"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x95e7549f"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xa06db7dc"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xeb08ab28"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x4b57a600"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xb06faf62"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x8fd3ab80"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x8b21e484"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x7cd07e47"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x06fdde03"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x8da5cb5b"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x8456cb59"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x5c975abb"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xe30c3978"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x715018a6"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x3f4ba83a"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x69615a4c"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x55c5b358"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x8d8043e2"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x033e2cb3"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x23cf3118"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x32faac70"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x4c5cbb34"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x2a42ede3"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x16f72842"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xba656434"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xa526d83b"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x0633b14a"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x71404156"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xf2fde38b"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x9cbef8dc"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xd94fe832"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x7ecebe00"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xf1f0b224"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x3ab8465d"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xaa677354"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xbe45fd62"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x4980f288"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xff126441"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xa5ed6a6a"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0x65269e47"
+/>
+<BonadocsWidget
+  widgetConfigUri="ipfs://QmbkLmT1vU9QocuL4Zn3v8zhY4jCe3RrYBz8B8RzGWTJJX"
+  contract="0xec677"
+  functionKey="0xec677.function.0xfa1a1b25"
+/>

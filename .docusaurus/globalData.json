@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "contracts/Bundler",
+              "path": "/contracts/Bundler",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/ID_Registry",
+              "path": "/contracts/ID_Registry",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/IdGateway",
+              "path": "/contracts/IdGateway",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/index",
+              "path": "/contracts/",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/Key_Gateway",
+              "path": "/contracts/Key_Gateway",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/Key_Registry",
+              "path": "/contracts/Key_Registry",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "contracts/Storage_Registry",
+              "path": "/contracts/Storage_Registry",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "deploymentAddresses",
+              "path": "/deploymentAddresses",
+              "sidebar": "contractSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "contractSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "contractSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

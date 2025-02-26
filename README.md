@@ -1,6 +1,6 @@
-# Bonadocs Documentation
+# Farcaster Documentation
 
-Paycrest contracts are multi-chain EVM-based smart contracts that facilitate the on-chain lifecycle of a payment order. They empower a sender to create a payment order, enable a liquidity provider to receive cryptocurrency in escrow, and much more. This docs covers how to use our APIs and contract to enable our off-ramp in your app.  
+Farcaster contracts are deployed on Optimism, an Ethereum layer 2 network. There are three core contracts: Id Registry, Key Registry, and Storage Registry. Write access to the ID and Key registry is gated through the Gateway contracts. There is also a Bundler helper contract to make it easy to register an fid, add a key and rent storage in one transaction.
 
 ### Installation
 
